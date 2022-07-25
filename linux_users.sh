@@ -1,4 +1,4 @@
-dsdsddsds#!/bin/bash
+jksdlejfsklfjlksjfjkldsdsddsds#!/bin/bash
 # Script to add a user to Linux system
 if [ $(id -u) -eq 0 ]; then
 	read -p "Enter username please : " username
